@@ -1,0 +1,5 @@
+D:\代码存放\ASP代码\设计模式\RYJ.Component.Data\bin\Debug\RYJ.Component.Data.dll
+D:\代码存放\ASP代码\设计模式\RYJ.Component.Data\bin\Debug\RYJ.Component.Data.pdb
+D:\代码存放\ASP代码\设计模式\RYJ.Component.Data\obj\Debug\RYJ.Component.Data.csprojResolveAssemblyReference.cache
+D:\代码存放\ASP代码\设计模式\RYJ.Component.Data\obj\Debug\RYJ.Component.Data.dll
+D:\代码存放\ASP代码\设计模式\RYJ.Component.Data\obj\Debug\RYJ.Component.Data.pdb

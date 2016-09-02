@@ -1,0 +1,5 @@
+D:\代码存放\ASP代码\设计模式\RYJ.Repository\bin\Debug\RYJ.Repository.dll
+D:\代码存放\ASP代码\设计模式\RYJ.Repository\bin\Debug\RYJ.Repository.pdb
+D:\代码存放\ASP代码\设计模式\RYJ.Repository\obj\Debug\RYJ.Repository.csprojResolveAssemblyReference.cache
+D:\代码存放\ASP代码\设计模式\RYJ.Repository\obj\Debug\RYJ.Repository.dll
+D:\代码存放\ASP代码\设计模式\RYJ.Repository\obj\Debug\RYJ.Repository.pdb
